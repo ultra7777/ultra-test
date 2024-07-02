@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-local branch 1 입니다.
-=======
-local branch 2 입니다.
-변경 1
->>>>>>> refs/heads/local_branch2
+20270703 에 새롭게 작성 했습니다.
